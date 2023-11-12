@@ -1,3 +1,3 @@
-Projeto do Curso Alura sobre CSS+HTML 
+Projeto do Curso sobre CSS+HTML 
 
 Teste
